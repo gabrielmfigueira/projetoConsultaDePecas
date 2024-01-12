@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de codigo</title>
+</head>
+<body>
+    <h1>Pesquise uma peça</h1>  
+    <br/>
+
+    <Form>
+
+        <label for="ColocarCodigo">Código</label>
+        <br/>
+        <input id="campoCodigo" type="text"> 
+        <br/>
+        
+        <label for="colocarONome">Nome</label>
+        <br/>
+        <input id="campoNome" type="text"> 
+        <br/>
+
+        <button id="bntPesquisar">Pesquisar</button>
+
+    </Form>
+
+    <br/>
+
+    <table>
+
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Nome da peça</th>
+                <th>Cor da peça</th>
+            </tr>      
+        </thead>
+
+        <tbody>
+            <tr>
+                <td id="campoTabelaCodigo"></td>
+                <td id="campoTabelaNomeDaPeca"></td>
+                <td id="campoTabelaCorDaPeca"></td>
+            </tr>
+        </tbody>
+
+    </table>    
+
+</body>
+<script src="./script.js"></script>
+</html>
