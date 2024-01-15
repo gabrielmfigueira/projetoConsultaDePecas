@@ -6,7 +6,7 @@ var pecas = [{codigoDaPeca: 50291167, nomeDaPeca: "SOLEIRA EM LED RAMPAGE", corD
 
 botao.addEventListener("click", function(e){
     e.preventDefault();
-    buscandoPecaPeloNome(campoNome);
+    buscandoPecaPeloNome(campoNome.value);
 });
 
 function buscandoPecaPeloNome(nomePeca){
@@ -20,3 +20,9 @@ var filtrandoPecaPeloNome =
 
     console.log(filtrandoPecaPeloNome);
 }
+
+// if(pecas[1].nomeDaPeca.includes(campoNome.value) == true){console.log(10)};
+
+// Estou com uma ideia para essa linha de código comentada.
+// Percebi que o 'includes' ele retorna true ou false se ele encontra uma string chave que eu escrever.
+// Vou tentar usar isso a meu favor.
