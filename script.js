@@ -2,7 +2,9 @@ var campoCodigo = document.querySelector("#campoCodigo");
 var campoNome = document.querySelector("#campoNome");
 var botao = document.querySelector("#bntPesquisar");
 
-var pecas = [{codigoDaPeca: 50291167, nomeDaPeca: "SOLEIRA EM LED RAMPAGE", corDaPeca: "Prata"},{ codigoDaPeca: 52227286, nomeDaPeca: "DIVISOR DE CAÇAMBA", corDaPeca: "Preta"}] ;
+var campoTabelaNomeDaPeca = document.querySelector("#campoTabelaNomeDaPeca");
+
+var pecas = [{codigoDaPeca: 50291167, nomeDaPeca: "SOLEIRA EM LED RAMPAGE", corDaPeca: "PRATA"},{ codigoDaPeca: 52227286, nomeDaPeca: "DIVISOR DE CAÇAMBA", corDaPeca: "PRETA"}] ;
 
 botao.addEventListener("click", function(e){
     e.preventDefault();
@@ -11,14 +13,21 @@ botao.addEventListener("click", function(e){
 
 function buscandoPecaPeloNome(nomePeca){
 
-var filtrandoPecaPeloNome =    
-
-    pecas.filter(function(obj)
+    pecas.filter(function()
     {
-        return obj.nomeDaPeca == nomePeca.value;
+
+        for( var i = 0; i < pecas.length; i++){
+
+            if(pecas[i].nomeDaPeca.includes(nomePeca.toLocaleUpperCase()) == true){
+                campoTabelaNomeDaPeca.innerHTML += pecas[i].nomeDaPeca;
+            }else{
+
+            }
+
+        }
     });
 
-    console.log(filtrandoPecaPeloNome);
+    
 }
 
 // if(pecas[1].nomeDaPeca.includes(campoNome.value) == true){console.log(10)};
