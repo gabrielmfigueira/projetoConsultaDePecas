@@ -32,6 +32,10 @@ function buscandoPecaPeloNome(nomePeca){
     }
 }
 
+function buscandoPecaPeloCodigo(nomePeca){
+
+}
+
 // if(pecas[1].nomeDaPeca.includes(campoNome.value) == true){console.log(10)};
 
 // Estou com uma ideia para essa linha de código comentada.
