@@ -2,13 +2,25 @@
     margin: 0;
 }
 
+body{
+    background-color: #4b5c2c;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Playfair Display', serif;
+}
+
 form {
     display: flex;
     flex-direction: column;
     border: 3px black solid;
     width: 50%;
     height: 50%;
-    padding: 2%;
+    padding: 1%;
+    background-color: #f4f4f4;
 }
 
 #divFormulario {
@@ -25,6 +37,9 @@ form {
 
 #divFormulario td {
     border: 2px black solid;
+    background-color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold
 
 }
 
@@ -36,7 +51,7 @@ form {
 }
 
 button {
-    width: 36%;
+    width: 40%;
     height: 20%;
     border-radius: 5px;
     display: flex;
@@ -46,4 +61,9 @@ button {
 
 button:hover {
     background-color: rgb(170, 173, 175);
+}
+
+.fontsSubTitulos {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 90%;
 }
