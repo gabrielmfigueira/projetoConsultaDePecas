@@ -6,11 +6,16 @@ body{
     background-color: #4b5c2c;
 }
 
-h1 {
+#tituloEImg {
     display: flex;
-    align-items: center;
-    flex-direction: column;
     font-family: 'Playfair Display', serif;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#tituloEImg img {
+    height: 100px;
+    margin-top: 10px;
 }
 
 form {
