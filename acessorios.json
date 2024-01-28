@@ -1,0 +1,14 @@
+{
+    "acessorios" : [
+        {
+            "codigoDaPeca" : "50291167",
+            "nomeDaPeca": "SOLEIRA EM LED RAMPAGE",
+            "corDaPeca": "PRATA"
+        },
+        {
+            "codigoDaPeca" : "52227286",
+            "nomeDaPeca": "DIVISOR DE CAÇAMBA",
+            "corDaPeca": "PRETA"
+        }
+    ]
+}

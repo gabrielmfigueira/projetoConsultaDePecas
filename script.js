@@ -4,7 +4,9 @@ var botao = document.querySelector("#bntPesquisar");
 
 var tabela = document.querySelector("#tabela");
 
-var pecas = [{codigoDaPeca: 50291167, nomeDaPeca: "SOLEIRA EM LED RAMPAGE", corDaPeca: "PRATA"},{ codigoDaPeca: 52227286, nomeDaPeca: "DIVISOR DE CAÇAMBA", corDaPeca: "PRETA"}] ;
+var pecas = [{codigoDaPeca: 50291167, nomeDaPeca: "SOLEIRA EM LED RAMPAGE", corDaPeca: "PRATA"},
+             {codigoDaPeca: 52227286, nomeDaPeca: "DIVISOR DE CAÇAMBA", corDaPeca: "PRETA"}
+            ];
 
 botao.addEventListener("click", function(e){
     e.preventDefault();
@@ -25,7 +27,6 @@ function buscandoPecaPeloNome(nomePeca){
                     <td>${pecas[i].corDaPeca}</td>
                 </tr>
             `
-
         }else{
 
         }
@@ -35,9 +36,3 @@ function buscandoPecaPeloNome(nomePeca){
 function buscandoPecaPeloCodigo(nomePeca){
 
 }
-
-// if(pecas[1].nomeDaPeca.includes(campoNome.value) == true){console.log(10)};
-
-// Estou com uma ideia para essa linha de código comentada.
-// Percebi que o 'includes' ele retorna true ou false se ele encontra uma string chave que eu escrever.
-// Vou tentar usar isso a meu favor.
