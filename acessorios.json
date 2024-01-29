@@ -9,6 +9,12 @@
             "codigoDaPeca" : "52227286",
             "nomeDaPeca": "DIVISOR DE CAÇAMBA",
             "corDaPeca": "PRETA"
+        },
+        {
+            "codigoDaPeca" : "104500162",
+            "nomeDaPeca": "EXTENSOR DE CAÇAMBA",
+            "corDaPeca": "PRETA"
         }
+        
     ]
 }
