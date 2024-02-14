@@ -3,18 +3,281 @@
         {
             "codigoDaPeca" : "50291167",
             "nomeDaPeca": "SOLEIRA EM LED RAMPAGE",
-            "corDaPeca": "PRATA"
+            "corDaPeca": "SEM COR"
         },
         {
             "codigoDaPeca" : "52227286",
             "nomeDaPeca": "DIVISOR DE CAÇAMBA",
-            "corDaPeca": "PRETA"
+            "corDaPeca": "SEM COR"
         },
         {
             "codigoDaPeca" : "104500162",
             "nomeDaPeca": "EXTENSOR DE CAÇAMBA",
-            "corDaPeca": "PRETA"
+            "corDaPeca": "SEM COR"
         }
-        
+        ,
+        {
+            "codigoDaPeca" : "100282722",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, CARBON BLACK"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282723",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, BILLET SILVER"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282724",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, POLAR WHITE"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282725",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, JAZZ BLUE"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282726",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, STING GRAY"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282727",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, COLORADO RED"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282728",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE CROMADO, MAXIMUM STEEL"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282735",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, CARBON BLACK"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282736",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, BILLET SILVER"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282737",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, POLAR WHITE"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282738",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, JAZZ BLUE"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282739",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, STING GRAY"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282740",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, COLORADO RED"
+        }
+        ,
+        {
+            "codigoDaPeca" : "100282741",
+            "nomeDaPeca": "FRISO PINTADO",
+            "corDaPeca": "DETALHE PRETO, MAXIMUM STEEL"
+        }
+        ,
+        {
+            "codigoDaPeca" : "52227285",
+            "nomeDaPeca": "RAM CARGO BOX",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "104500147",
+            "nomeDaPeca": "RAMBAR PRETO",
+            "corDaPeca": "PRETO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "104500148",
+            "nomeDaPeca": "RAMBAR CROMADO",
+            "corDaPeca": "CROMADO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291053",
+            "nomeDaPeca": "GRADE DO VIDRO TRASEIRO",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291061",
+            "nomeDaPeca": "ESTRIBO LATERAL",
+            "corDaPeca": "PRETO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291064",
+            "nomeDaPeca": "ESTRIBO LATERAL, ELÉTRICO",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291054",
+            "nomeDaPeca": "TAPETE BORDAS ELEVADAS",
+            "corDaPeca": "PRETO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "7095205",
+            "nomeDaPeca": "TAPETE BORDAS ELEVADAS",
+            "corDaPeca": "MARROM"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291043",
+            "nomeDaPeca": "PARA BARRO, JOGO",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291055",
+            "nomeDaPeca": "CAPOTA MARÍTIMA",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291057",
+            "nomeDaPeca": "CAPOTA RÍGIDA ELÉTRICA",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "7095201",
+            "nomeDaPeca": "ADAPTADOR CAPOTA ELÉTRICA PARA RAMBAR",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291058",
+            "nomeDaPeca": "CAPOTA RÍGIDA MANUAL",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291059",
+            "nomeDaPeca": "ENGATE REBOQUE",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291073",
+            "nomeDaPeca": "PARAFUSO ANTIFURTO",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50291060",
+            "nomeDaPeca": "CHICOTE ELÉTRICO, ENGATE",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "7092704",
+            "nomeDaPeca": "PORTA OBJETOS FLEXIVEL",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "52052921",
+            "nomeDaPeca": "BOLSA DE CAÇAMBA, ABERTURA HORIZONTAL",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "52052920",
+            "nomeDaPeca": "BOLSA DE CAÇAMBA, ABERTURA VERTICAL",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50928736",
+            "nomeDaPeca": "BAGAGEIRO TUBULAR",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "K82212932",
+            "nomeDaPeca": "KIT COMPRESSOR",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "K82214269",
+            "nomeDaPeca": "PEDALEIRA ESPORTIVA (DIESEL)",
+            "corDaPeca": "CROMADO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50927619",
+            "nomeDaPeca": "CAPA PARA BANCOS, PET",
+            "corDaPeca": "PRETO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "K82213499AB",
+            "nomeDaPeca": "KIT SEGURANÇA",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50927606",
+            "nomeDaPeca": "REDE ELASTICA PARA BANCO DIANTEIRO",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "52091365",
+            "nomeDaPeca": "CAPA PARA BANCOS, TECIDO TOALHA",
+            "corDaPeca": "BRANCO"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50928310",
+            "nomeDaPeca": "SUPORTE DE BICICLETA PARA TETO, NACIONAL",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "7094958",
+            "nomeDaPeca": "SUPORTE DE BICICLETA PARA ENGATE, 2 BIKES",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "7094957",
+            "nomeDaPeca": "SUPORTE FIXO DE BICICLETA PARA ENGATE, 3 BIKES",
+            "corDaPeca": "SEM COR"
+        }
+        ,
+        {
+            "codigoDaPeca" : "50927856",
+            "nomeDaPeca": "TRAVA DE ESTEPE",
+            "corDaPeca": "SEM COR"
+        }  
     ]
 }
