@@ -21,7 +21,7 @@ function buscandoPecaPeloNome(nomePeca){
 
         for( var i = 0; i < dados.acessorios.length; i++){
 
-            if(dados.acessorios[i].nomeDaPeca.includes(nomePeca.toLocaleUpperCase()) == true){
+            if(dados.acessorios[i].nomeDaPeca.includes(nomePeca.toLocaleUpperCase()) == true || dados.acessorios[i].corDaPeca.includes(nomePeca.toLocaleUpperCase()) == true){
                 tabela.innerHTML += 
                 `
                     <tr>
@@ -31,13 +31,9 @@ function buscandoPecaPeloNome(nomePeca){
                     </tr>
                 `
             }else{
-    
-            }
+
+            };
         }
+
     });  
-
-}
-
-function buscandoPecaPeloCodigo(nomePeca){
-
 }

@@ -18,7 +18,7 @@ body{
     margin-top: 10px;
 }
 
-table {
+#corpoTabela  {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -37,9 +37,6 @@ form {
 #divFormulario {
     
     display: flex;
-    /* flex-direction: column; */
-    /* gap: 10px; */
-    /* position: absolute; */
     z-index: 11;
     width: 100%;
     height: 60%;
@@ -77,4 +74,16 @@ button:hover {
 .fontsSubTitulos {
     font-family: 'Source Code Pro', monospace;
     font-size: 90%;
+}
+
+table {
+    width: 90%;
+    margin-left: 5%;
+}
+
+#tabela tr td {
+    border: 3px black solid;
+    padding: 1%;
+    background-color: #f4f4f4;
+    width: 4%;
 }
