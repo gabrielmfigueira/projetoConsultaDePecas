@@ -278,6 +278,11 @@
             "codigoDaPeca" : "50927856",
             "nomeDaPeca": "TRAVA DE ESTEPE",
             "corDaPeca": "SEM COR"
-        }  
+        }, 
+        {
+            "codigoDaPeca" : "50291072",
+            "nomeDaPeca": "TAPETE DE CAÇAMBA",
+            "corDaPeca": "SEM COR"
+        }
     ]
 }
